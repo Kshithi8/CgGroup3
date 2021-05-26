@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16077" started-at="2021-05-24T18:21:59 IST" finished-at="2021-05-24T18:22:15 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16077" started-at="2021-05-24T18:21:59 IST" finished-at="2021-05-24T18:22:15 IST">
+      <class name="Sprint_2.PracticeScript.FlpMouseOver">
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:Sprint_2.PracticeScript.FlpMouseOver@4493d195]" name="setUpBrowser" is-config="true" duration-ms="10588" started-at="2021-05-24T18:21:59 IST" finished-at="2021-05-24T18:22:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="MouseIverSelect()[pri:0, instance:Sprint_2.PracticeScript.FlpMouseOver@4493d195]" name="MouseIverSelect" duration-ms="5424" started-at="2021-05-24T18:22:10 IST" finished-at="2021-05-24T18:22:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MouseIverSelect -->
+      </class> <!-- Sprint_2.PracticeScript.FlpMouseOver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
